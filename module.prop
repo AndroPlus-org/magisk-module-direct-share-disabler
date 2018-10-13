@@ -3,5 +3,5 @@ name=Magisk Direct Share Disabler
 version=v01
 versionCode=1
 author=REJH,AndroPlus
-description=Dsiable "Direct Share" from the share menu.
+description=Disable "Direct Share" from the share menu.
 minMagisk=1700

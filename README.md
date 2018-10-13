@@ -1,6 +1,6 @@
 #### Magisk Direct Share Disabler
 
-Dsiable "Direct Share" from the share menu.
+Disable "Direct Share" from the share menu.
 
 #### NOTICE
 
